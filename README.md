@@ -1,4 +1,4 @@
-# AWS Static Website
+# Static Website Hosting on AWS S3
 
 ## Project Overview
 This project demonstrates how to host a simple static website using AWS services. The website consists of HTML and CSS files and is deployed on AWS.
